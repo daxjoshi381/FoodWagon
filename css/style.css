@@ -868,3 +868,80 @@ background-color: #000000;
     justify-content: space-between;
 }
 
+.follow-subs{
+  display: flex;
+    flex-direction: column;
+    gap: 43px;
+    color: #626060;
+
+}
+
+.followus{
+  display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+}
+
+.followus h1{
+   font-size: 18px;
+}
+
+.icons-f{
+      display: flex;
+    gap: 16px;
+    font-size: 24px;
+}
+
+
+
+.subs{
+  display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.subs p{
+  color: #BBBBBB;
+    font-size: 18px;
+}
+
+.Text-Button{
+      display: flex;
+    gap: 10px;
+}
+
+.email{
+
+  background: #424242;
+    color: #ADADAD;
+    display: flex;
+    gap: 10px;
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    border-radius: 8px;
+    align-items: center;
+}
+
+
+
+.email i{
+  font-size: 24px;
+}
+
+.email input{
+  border: none;
+    background: none;
+    outline: none;
+    font-size: 18px;
+}
+
+.btn-sub{
+   padding: 14px 24px;
+    background: #FF8A00;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+}
