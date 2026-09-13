@@ -1,18 +1,18 @@
 @import "utilities.css";
 
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap'); */
 
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body{
   font-family: "Source Sans Pro"
 }
 
-/* .body {
-  font-family: "Source Sans Pro", sans-serif;
-} */
 
 .container {
   width: 100%;
@@ -381,6 +381,8 @@ section.popular {
   gap: 71px;
   margin-bottom: 80px;
 }
+
+
 
 .popular-items {
   display: grid;
